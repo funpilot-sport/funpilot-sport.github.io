@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.konfetti.funpilot.dev",
+      "sha256_cert_fingerprints": [
+        "EE:F2:54:AC:8C:EB:E2:11:1A:5E:1F:F8:7D:9B:8D:BE:43:A4:65:4D:67:61:5D:DA:1B:E3:EB:4F:F1:63:2D:C7"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.konfetti.funpilot",
+      "sha256_cert_fingerprints": [
+        "EE:F2:54:AC:8C:EB:E2:11:1A:5E:1F:F8:7D:9B:8D:BE:43:A4:65:4D:67:61:5D:DA:1B:E3:EB:4F:F1:63:2D:C7"
+      ]
+    }
+  }
+]
