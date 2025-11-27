@@ -15,7 +15,9 @@
       "namespace": "android_app",
       "package_name": "com.konfetti.funpilot",
       "sha256_cert_fingerprints": [
-        "EE:F2:54:AC:8C:EB:E2:11:1A:5E:1F:F8:7D:9B:8D:BE:43:A4:65:4D:67:61:5D:DA:1B:E3:EB:4F:F1:63:2D:C7"
+        "EE:F2:54:AC:8C:EB:E2:11:1A:5E:1F:F8:7D:9B:8D:BE:43:A4:65:4D:67:61:5D:DA:1B:E3:EB:4F:F1:63:2D:C7",
+        "1D:86:01:8F:C1:66:DE:77:0D:54:6C:74:83:18:2F:B5:93:21:B1:4B:1E:EA:36:D6:FF:98:C0:6A:84:46:15:EA",
+        "82:32:45:82:3A:F5:69:A1:F7:59:27:94:72:8D:6E:BD:4D:F8:B2:F2:88:2F:0A:E3:AE:6A:FC:87:D6:50:5E:5E"
       ]
     }
   }
